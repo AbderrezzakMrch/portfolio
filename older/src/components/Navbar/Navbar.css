@@ -1,0 +1,43 @@
+.navbar {
+    width: 100%;
+    height: 15vh;
+}
+.nav-ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-ul li {
+    list-style: none;
+    margin-top: 45px;
+}
+.nav-ul a {
+    text-decoration: none;
+    font-size: 26px;   
+}
+.nav-ul a.nav-btn {
+    border-radius: 3px;
+    padding: 0 8px;
+    padding-bottom: 7px;
+}
+.nav-ul a.nav-btn:hover {
+    border-bottom: 2px solid blanchedalmond;
+}
+.nav-ul .title {
+    font-size: 35px;
+    font-weight: bold;
+}
+.nav-ul .title:hover {
+    color: aquamarine;
+    transition: 0.5s;
+}
+.nav-ul .lets-talk {
+    padding: 8px 15px;
+    border: 2px solid white;
+    border-radius: 25px;
+}
+.nav-ul .lets-talk:hover {
+    background-color: blanchedalmond;
+    color: black;
+    transition: 0.2s;
+}

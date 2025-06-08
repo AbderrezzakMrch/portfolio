@@ -1,6 +1,6 @@
 import React, { useRef } from 'react';
 import { motion, useInView } from 'framer-motion';
-import Profile_img from './assets/MyPic/image1.jpg';
+import Profile_img from '/MyPic/image1.jpg';
 
 const Home = () => {
   const ref = useRef(null);

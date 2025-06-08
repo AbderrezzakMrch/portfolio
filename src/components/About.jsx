@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import my_image from './assets/MyPic/image2.jpg';
+import my_image from '/MyPic/image2.jpg';
 
 
 const fadeInUp = {

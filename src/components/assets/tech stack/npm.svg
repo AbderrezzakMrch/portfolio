@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#CB3837;}
-	.st1{fill:#FFFFFF;}
-</style>
-<g id="XMLID_1_">
-	<polygon id="XMLID_2_" class="st0" points="67.5,178.8 67.5,300.7 169,300.7 169,321.2 250,321.2 250,300.7 432.5,300.7 
-		432.5,178.8 	"/>
-	<polygon id="XMLID_3_" class="st1" points="128.1,199.3 87.9,199.3 87.9,219.7 87.9,280.3 128.1,280.3 128.1,219.7 148.5,219.7 
-		148.5,280.3 169,280.3 169,219.7 169,199.3 	"/>
-	<path id="XMLID_4_" class="st1" d="M189.4,199.3v76.8v4.2v20.4h40.9v-20.4h40.2v-81H189.4z M250,259.9h-19.7v-40.2H250V259.9z"/>
-	<polygon id="XMLID_7_" class="st1" points="331,199.3 290.9,199.3 290.9,219.7 290.9,280.3 331,280.3 331,219.7 351.5,219.7 
-		351.5,280.3 371.9,280.3 371.9,219.7 392.3,219.7 392.3,280.3 412.8,280.3 412.8,219.7 412.8,200.7 412.8,199.3 	"/>
-</g>
-</svg>
+<svg width="2500" height="977" viewBox="0 0 256 100" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin meet"><path d="M0 0v85.498h71.166V99.83H128V85.498h128V0H0z" fill="#CB3837"/><path d="M42.502 14.332h-28.17v56.834h28.17V28.664h14.332v42.502h14.332V14.332H42.502zM85.498 14.332v71.166h28.664V71.166h28.17V14.332H85.498zM128 56.834h-13.838v-28.17H128v28.17zM184.834 14.332h-28.17v56.834h28.17V28.664h14.332v42.502h14.332V28.664h14.332v42.502h14.332V14.332h-57.328z" fill="#FFF"/></svg>

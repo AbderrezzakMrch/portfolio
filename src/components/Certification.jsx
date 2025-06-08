@@ -4,7 +4,6 @@ import { motion } from "framer-motion";
 
 function Certification() {
   const [selectedCert, setSelectedCert] = useState(null);
-motion
   const certifications = [
     { title: "Responsive Web Design", image: "/certs/Responsive_Web_Design.png" },
     { title: "Intro to Programming", image: "/certs/Intro to Programming.png" },

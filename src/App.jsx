@@ -3,7 +3,7 @@ import Home from './components/Home'
 import TechStocks from './components/TechStack'
 import About from './components/About'
 import Portfolio from './components/Portfolio'
-import Certification from './components/Certification'
+import Certification from './components/certification';
 import Contact from './components/contact'
 import Education from './components/education'
 import Footer from './components/Footer'

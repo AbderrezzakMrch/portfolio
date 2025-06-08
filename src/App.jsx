@@ -1,12 +1,12 @@
-import Navbar from './components/Navbar'
-import Home from './components/Home'
-import TechStocks from './components/TechStack'
-import About from './components/About'
-import Portfolio from './components/Portfolio'
-import Certification from './components/certification';
-import Contact from './components/contact'
-import Education from './components/education'
-import Footer from './components/Footer'
+import Navbar from './components/Navbar.jsx'
+import Home from './components/Home.jsx'
+import TechStocks from './components/TechStack.jsx'
+import About from './components/About.jsx'
+import Portfolio from './components/Portfolio.jsx'
+import Certification from './components/Certification.jsx';
+import Contact from './components/Contact.jsx'
+import Education from './components/Education.jsx'
+import Footer from './components/Footer.jsx'
 
 
 function App() {

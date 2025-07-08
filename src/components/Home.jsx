@@ -63,6 +63,7 @@ const Home = () => {
         <img
           src={Profile_img}
           alt="Portfolio Picture"
+          loading="lazy"
           className='rounded-full border-8 border-amber-50 object-cover w-full h-auto shadow-xl hover:border-blue-700 duration-100'
         />
       </motion.div>

@@ -28,6 +28,7 @@ function Certification() {
             <img
               src={cert.image}
               alt={cert.title}
+              loading="lazy"
               className="h-60 w-auto rounded shadow-md"
             />
           </motion.div>

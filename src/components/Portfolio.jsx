@@ -18,12 +18,20 @@ const Portfolio = () => {
       codeLink: "https://github.com/AbderrezzakMrch/Parkinson-s-Disease-Voice-Detector"
     },
     {
-      title: "NextWordAI: Smart Arabic Text Prediction using NLP",
+      title: "NextWord: Arabic Text Prediction using NLP",
       description: "Developed an Arabic NLP model that predicts the next word in a sentence using a custom-trained dataset from Algerian history books. The pipeline included text extraction from PDFs (via PyPDF2/PdfReader), advanced tokenization with Stanza and NLTK, and preprocessing steps like stopword removal, lemmatization, and NER tagging. The model analyzes character/word matrices and contextual patterns to generate accurate predictions, with a user-friendly interface for phrase generation.",
       image: "/Projects/arabic_nlp.png",
       languages: ["Python","Stanza","NLTK","PyPDF2","PyQt5","json","matplotlib","seaborn","networkx","logging"],
       viewLink: "#",
       codeLink: "https://github.com/AbderrezzakMrch/Arabic-NLP"
+    },
+    {
+      title: "Qahwat Al-Asala: Coffee Shop",
+      description: "Developed an Coffee Shop to sell a lot of diffrent coffes.",
+      image: "/Projects/Coffee Shop.png",
+      languages: ["React + Vite","Tailwind CSS","Node js","Express js","MongoDB"],
+      viewLink: "https://qahwat-al-asala.netlify.app",
+      codeLink: "https://github.com/AbderrezzakMrch/coffee-shop"
     },
   ];
 

@@ -40,6 +40,7 @@ const About = () => {
             <img 
               src={my_image} 
               alt="Coding illustration" 
+              loading="lazy"
               className="relative z-10 w-full h-full object-cover rounded-full px-8 py-8"
             />
               {/* Floating particles */}

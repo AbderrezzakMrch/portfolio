@@ -14,6 +14,7 @@ export default function ProjectCard({ project, reverse }) {
           src={project.image}
           alt={project.title}
           className="rounded-2xl shadow-lg w-full object-cover"
+          loading="lazy"
         />
       </div>
 

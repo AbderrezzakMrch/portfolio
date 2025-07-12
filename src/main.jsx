@@ -10,5 +10,7 @@ createRoot(document.getElementById('root')).render(
     <App />
     <SpeedInsights/>
     <Analytics/>
+    <SpeedInsights/>
+    <Analytics/>
   </StrictMode>,
 )

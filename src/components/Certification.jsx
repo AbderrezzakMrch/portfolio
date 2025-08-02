@@ -7,6 +7,8 @@ function Certification() {
   const certifications = [
     { title: "Responsive Web Design", image: "/certs/Responsive_Web_Design.png" },
     { title: "Intro to Programming", image: "/certs/Intro to Programming.png" },
+    { title: "Python", image: "/certs/Python.png" },
+    { title: "4th place in the National AI Olympiad", image: "/certs/AI Olompyade.png" },
   ];
 
   return (

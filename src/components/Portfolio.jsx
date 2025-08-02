@@ -33,6 +33,14 @@ const Portfolio = () => {
       viewLink: "https://qahwat-al-asala.netlify.app",
       codeLink: "https://github.com/AbderrezzakMrch/coffee-shop"
     },
+    {
+      title: "DIGITAL MARKET: E-commerce",
+      description: "Developed an e-commerce to sell a lot of diffrent products.",
+      image: "/Projects/DIGITAL MARKET.png",
+      languages: ["HTML","CSS","Java Script","PHP","My SQL","XAMP"],
+      viewLink: "#",
+      codeLink: "github.com/AbderrezzakMrch?tab=repositories"
+    },
   ];
 
   return (
